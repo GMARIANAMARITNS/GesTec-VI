@@ -44,8 +44,9 @@ Futuramente
 </p>
 
 # Equipe
->Colocar aqui uma imagem da equipe com a logo do grupo.
-# ![image](https://github.com/lerbalist/GESTEC/assets/142409605/7a392f4c-98df-4875-85f1-0e1879feee75)
+
+# ![image](<img width="500" height="500" alt="Black White Minimalist SImple Monogram Typography Logo" src="https://github.com/user-attachments/assets/a83a8aa0-6d8d-4705-9cb9-308cb770667f" />)
+
 
 
 
