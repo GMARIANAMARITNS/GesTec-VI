@@ -100,7 +100,7 @@ Link Apresentação [clique aqui](https://fatecspgov-my.sharepoint.com/:v:/g/per
 ## Cronograma 
 Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá é possivel encontrar as datas das atividades, o responsável por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
 
-#### • Clique para acessar o Jira : [clique aqui](https://fatecspgov.sharepoint.com/:x:/r/sites/GESTEC-SoluesEmpresariais/_layouts/15/Doc.aspx?action=edit&sourcedoc=%7B45ef208e-0f47-4589-bf7a-1c7f138b3bd0%7D&wdOrigin=TEAMS-WEB.teamsSdk.openFilePreview&wdExp=TEAMS-CONTROL&web=1)
+#### • Clique para acessar o Jira : [clique aqui](https://gmarianamartins.atlassian.net/jira/software/projects/P6S/boards/2/backlog?atlOrigin=eyJpIjoiNWZkMzVjNzI5NzdiNGEzOWI3YWNiZDY1ZGZiOGU3NjkiLCJwIjoiaiJ9)
 
 
 
