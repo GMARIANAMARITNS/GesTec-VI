@@ -90,10 +90,7 @@ Link Apresentação [clique aqui](https://fatecspgov-my.sharepoint.com/:v:/g/per
 
 ### Tecnologias Específicas/Apoio 
 
-<img width="400" height="400" alt="Post Instagram Curso Tecnologia com Cubos" src="https://github.com/user-attachments/assets/32707fe8-a729-4182-93f5-fa6a02fd3b35" />
-
-
-
+<img width="450" height="450" alt="Cubos (1)" src="https://github.com/user-attachments/assets/625a5536-c90f-4e0d-9685-5ec968006bb7" />
 
 # Cronograma das Sprints
 
