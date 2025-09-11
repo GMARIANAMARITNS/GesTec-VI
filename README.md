@@ -45,7 +45,7 @@ Futuramente
 
 # Equipe
 
-# ![image]<img width="500" height="500" alt="Black White Minimalist SImple Monogram Typography Logo" src="https://github.com/user-attachments/assets/a83a8aa0-6d8d-4705-9cb9-308cb770667f" />
+# ![image]<img width="350" height="350" alt="Black White Minimalist SImple Monogram Typography Logo" src="https://github.com/user-attachments/assets/a83a8aa0-6d8d-4705-9cb9-308cb770667f" />
 
 
 
@@ -88,9 +88,8 @@ Link Apresentação [clique aqui](https://fatecspgov-my.sharepoint.com/:v:/g/per
 |Sprint 3| Descrever. |
 
 ### Tecnologias Específicas/Apoio 
-Até o momento.
 
-<img width="800" height="800" alt="Post Instagram Curso Tecnologia com Cubos" src="https://github.com/user-attachments/assets/32707fe8-a729-4182-93f5-fa6a02fd3b35" />
+<img width="400" height="400" alt="Post Instagram Curso Tecnologia com Cubos" src="https://github.com/user-attachments/assets/32707fe8-a729-4182-93f5-fa6a02fd3b35" />
 
 
 
