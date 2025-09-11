@@ -90,7 +90,8 @@ Link Apresentação [clique aqui](https://fatecspgov-my.sharepoint.com/:v:/g/per
 ### Tecnologias Específicas/Apoio 
 Até o momento.
 
-![image](https://github.com/lerbalist/GESTEC/assets/142409605/92f972a7-aec1-4c4f-bcaf-55de30293df9)
+![image]<img width="1080" height="1080" alt="Post Instagram Curso Tecnologia com Cubos" src="https://github.com/user-attachments/assets/32707fe8-a729-4182-93f5-fa6a02fd3b35" />
+
 
 
 
