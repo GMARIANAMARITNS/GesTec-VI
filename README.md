@@ -90,7 +90,7 @@ Link Apresentação [clique aqui](https://fatecspgov-my.sharepoint.com/:v:/g/per
 ### Tecnologias Específicas/Apoio 
 Até o momento.
 
-![image]<img width="1080" height="1080" alt="Post Instagram Curso Tecnologia com Cubos" src="https://github.com/user-attachments/assets/32707fe8-a729-4182-93f5-fa6a02fd3b35" />
+<img width="800" height="800" alt="Post Instagram Curso Tecnologia com Cubos" src="https://github.com/user-attachments/assets/32707fe8-a729-4182-93f5-fa6a02fd3b35" />
 
 
 
