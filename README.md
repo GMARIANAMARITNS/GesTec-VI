@@ -62,9 +62,10 @@ O objetivo é construir um painel de análise e gestão das exportações brasil
 # Funcionalidades e Demonstrações das Sprints
 
 ## Sprint 1
->Resumo escrito sprint 1. 
+>Importar e concatenar dados no Google Colab utilizando a biblioteca pandas. Realizar dashboard utilizando Power BI para entrega da Sprint 1 conforme Wish List. 
 
-Link Apresentação [clique aqui](https://fatecspgov-my.sharepoint.com/:v:/g/personal/leticia_brito7_fatec_sp_gov_br/EROMZdPxyNxMta9G2utG_J0BNxRU4g7L9sc_jmsOHyzIiQ?e=kd3mSE&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+Link Apresentação [clique aqui][Apresentação - Sprint 1.zip](https://github.com/user-attachments/files/22449249/Apresentacao.-.Sprint.1.zip)
+
 
 ## Sprint 2
 >Resumo escrito sprint 2.
@@ -84,7 +85,7 @@ Link Apresentação [clique aqui](https://fatecspgov-my.sharepoint.com/:v:/g/per
 
 |Sprint|MVP|
 |-|-|
-|Sprint 1| Descrever. |
+|Sprint 1| Top 10 mercadorias, com maior valor agregado, exportadas pelo Brasil; Top 5 Estados Brasileiros que mais exportam mercadorias, com maior valor agregado; Top 10 principais países de destino das exportações brasileiras, com maior valor agregado; Principais mercadorias exportadas por cada Estado Brasileiro.|
 |Sprint 2| Descrever. |
 |Sprint 3| Descrever. |
 
@@ -120,9 +121,10 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 ## Sprint 1 - Concepção/Apresentação do Projeto
 - [x] Divisão de Tarefas
 - [x] Coleta de Dados 
-- [x] Preencher
-- [x] Preencher
-- [x] Preencher
+- [x] Tratamentos dos Dados
+- [x] Atualização GitHub
+- [x] Atualização Jira
+- [x] Realização de Dashboard no PowerBI conforme WishList
       
 
 ## Sprint 2 - Desenvolvimento do Projeto
@@ -151,11 +153,12 @@ A cada Sprint desenvolvemos mais de si e do projeto, crescendo pessoalmente e em
 | Tecnologia/Metodologia | Classificação |
 | ---------------------- | ------------- |
 | GitHub  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Trello | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
-| Excel  | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
-| PowerPoint | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Scrum | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Word | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Jira | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Word  | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
+| PowerPoint | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
+| Scrum | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
+| Google Colab | ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ ☆ |
+| Power BI | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
  
 </details>
 
@@ -165,12 +168,12 @@ A cada Sprint desenvolvemos mais de si e do projeto, crescendo pessoalmente e em
 
 | Habilidades | Classificação |
 | ---------------------- | ------------- |
-| Trabalho em Equipe | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Comunicação | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-| Proatividade | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Responsabilidade | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Colaboração | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Trabalho em Equipe | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
+| Comunicação | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
+| Proatividade | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
+| Responsabilidade | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
+| Colaboração | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
+
 
 </details>
 
