@@ -64,7 +64,7 @@ O objetivo é construir um painel de análise e gestão das exportações brasil
 ## Sprint 1
 >Importar e concatenar dados no Google Colab utilizando a biblioteca pandas. Realizar dashboard utilizando Power BI para entrega da Sprint 1 conforme Wish List. 
 
-Link Apresentação [clique aqui][Apresentação - Sprint 1.zip](https://github.com/user-attachments/files/22449249/Apresentacao.-.Sprint.1.zip)
+Link Apresentação:[Apresentação - Sprint 1.zip](https://github.com/user-attachments/files/22449249/Apresentacao.-.Sprint.1.zip)
 
 
 ## Sprint 2
