@@ -111,7 +111,7 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 | 3    | Alta       | Como Secretário de Comércio Exterior, quero conhecer os 10 principais países de destino das exportações brasileiras, com maior valor agregado, para entender dependências e oportunidades internacionais. | 3                     | 1      |
 | 4    | Alta       | Como Secretário de Comércio Exterior, quero mapear as principais mercadorias exportadas por cada Estado Brasileiro para analisar a relevância comercial.     | 3                     | 1      |
 | 5    | Alta       | Como Secretário de Comércio Exterior, quero identificar as URF que processam exportações para direcionar recursos.                           | 7                     | 2      |
-| 6    | Média      | Como Secretário de Comércio Exterior, quero analisar os padrões de sazonalidade do fluxo de cargas ao longo do ano para coordenar as políticas com os períodos de maior e menor demanda. | 10                    | 2      |
+| 6    | Média      | Como Secretário de Comércio Exterior, quero analisar os padrões de sazonalidade do fluxo de cargas ao longo do ano para coordenar as políticas com os períodos de maior e menor demanda. | 7                    | 2      |
 | 7    | Média      | Como Secretário de Comércio Exterior, quero mapear o percentual de utilização de cada modal de transporte para analisar a capacidade logística nacional. | 10                    | 2      |
 | 8    | Média      | Como Secretário de Comércio Exterior, quero dispor de indicadores gerenciais para apoiar a tomada de decisões baseada em dados sobre exportações brasileiras.           | 10                    | 3     |
 
