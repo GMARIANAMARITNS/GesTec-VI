@@ -59,11 +59,12 @@ O objetivo é construir um painel de análise e gestão das exportações brasil
 Sprints | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |Kick Off | 25/08/25 a 29/08/25 | realizado |
-|01 | 08/09/25 a 28/09/25 | [Apresentação - Sprint 1.zip](https://github.com/user-attachments/files/22449249/Apresentacao.-.Sprint.1.zip) | 
+|01 | 08/09/25 a 28/09/25 | realizado | | [Apresentação - Sprint 1.zip](https://github.com/user-attachments/files/22449249/Apresentacao.-.Sprint.1.zip)| 
 |02|  06/10/25 a 26/10/25 | em progresso |
 |03| 03/11/25 a 23/11/25 | em progresso |
 |Relatório Final| 23/11/25 | em progresso |[Ver Relatório](https://github.com/lerbalist/GESTEC/blob/main/Sprint%202/documento/SPRINT%202%20-%20Relatorio.pdx) |
 |Feira de Soluções| 04/12/25 |em progresso | 
 
+#### Cronograma
 Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá é possivel encontrar as datas das atividades, o responsável por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
 #### • Clique para acessar o Jira : [clique aqui](https://gmarianamartins.atlassian.net/jira/software/projects/P6S/boards/2/backlog?atlOrigin=eyJpIjoiNWZkMzVjNzI5NzdiNGEzOWI3YWNiZDY1ZGZiOGU3NjkiLCJwIjoiaiJ9)
