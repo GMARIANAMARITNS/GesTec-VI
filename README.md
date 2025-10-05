@@ -6,14 +6,11 @@
 # Índice
 
 * [Projeto (API)](#projeto-api)
-* [Micro Certificações](#micro-certificações)
 * [Equipe](#equipe)
 * [Objetivo do Projeto](#objetivo-do-projeto)
-* [Funcionalidades e Demonstrações das Sprints](#funcionalidades-e-demonstrações-das-sprints)
-* [Cronograma das Sprints](#cronograma-das-sprints)
+* [Tecnologias Utilizadas](#Tecnologias-Utilizadas)
 * [Backlog do Produto](#backlog-do-produto)
-* [Competências Desenvolvidas](#competências-desenvolvidas)
-* [Autores](#autores)
+* [Registros das Sprints](#Registros-das-Sprints)
 
 # Projeto (API) 
 Projeto pedagógico alicerçado na Metodologia API para ensino-aprendizado focado no desenvolvimento de competências e fundamentada nos pilares de aprendizado com problemas reais (RPBL), validação externa e mentalidade ágil. 
@@ -34,17 +31,6 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 
 Esse projeto é referente a matéria de T.I Aplicada à Gestão de Operações e Processos para graduação em CST em Gestão da Produção Industrial.
 
-O objetivo é construir um painel de análise e gestão das exportações brasileiras (2020-2025), utilizando dados brutos disponibilizados pelo MDIC. O painel deverá permitir:
-- Visualização pos estado, tipo de carga e destino internacional;
-- Análise de URFs processadoras;
-- Identificação de padrões e sazonalidade mensal;
-- Geração de indicadores gerenciais para apoio à tomada de decisão.
-
-# Equipe
-
-<img width="350" height="350" alt="Black White Minimalist SImple Monogram Typography Logo" src="https://github.com/user-attachments/assets/a83a8aa0-6d8d-4705-9cb9-308cb770667f" />
-
-# Objetivo do Projeto
 O objetivo é construir um painel de análise e gestão das exportações brasileiras (2020-2025), utilizando dados brutos disponibilizados pelo MDIC. O painel deverá permitir:
 - Visualização pos estado, tipo de carga e destino internacional;
 - Análise de URFs processadoras;
