@@ -37,7 +37,7 @@ O objetivo é construir um painel de análise e gestão das exportações brasil
 - Identificação de padrões e sazonalidade mensal;
 - Geração de indicadores gerenciais para apoio à tomada de decisão.
 
-### Tecnologias Utilizadas 
+# Tecnologias Utilizadas 
 
 <img width="450" height="450" alt="Cubos (1)" src="https://github.com/user-attachments/assets/625a5536-c90f-4e0d-9685-5ec968006bb7" />
 
