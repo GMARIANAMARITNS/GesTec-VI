@@ -6,10 +6,10 @@ Construir um painel de análise das exportações brasileiras (2020-2025), utili
 ## 📝 Descrição da Solução
 - Desenvolvido tratamento dos dados no Google Colab.
 - Desenvolvido dashboard no PowerBI com as seguintes análises:
-          - 1. Mapeamento das 10 mercadorias, com maior valor agregado, exportadas pelo Brasil.
-          - 2. Identificação dos 5 estados brasileiros que mais exportam mercadorias, com maior valor agregado.
-          - 3. Mapeamento dos 10 principais países de destino das exportações brasileiras, com maior valor agregado.
-          - 4. Mapeamento das principais mercadorias exportadas por cada estado brasileiro.
+1. Mapeamento das 10 mercadorias, com maior valor agregado, exportadas pelo Brasil.
+2. Identificação dos 5 estados brasileiros que mais exportam mercadorias, com maior valor agregado.
+3. Mapeamento dos 10 principais países de destino das exportações brasileiras, com maior valor agregado.
+4. Mapeamento das principais mercadorias exportadas por cada estado brasileiro.
           
 ## 👥 Persona / Usuário-Alvo
 - **Persona:** Secretário de Comércio Exterior necessita de informações organizadas para tomar decisões estratégicas, responder à imprensa, negociar com outros países e orientar políticas públicas.
