@@ -1,4 +1,4 @@
-📌 MVP - [Sprint 2 GesTec VI]
+##📌 MVP - [Sprint 2 GesTec VI]
 🎯 Objetivo do MVP
 
 Dar continuidade à análise das exportações brasileiras (2020–2025), aprimorando o tratamento dos dados e ampliando a visualização analítica.
