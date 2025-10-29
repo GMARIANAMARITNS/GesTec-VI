@@ -60,7 +60,7 @@ Sprints | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |Kick Off | 25/08/25 a 29/08/25 | realizado |
 |01 | 08/09/25 a 28/09/25 | realizado | [MVP](sp1.md)| 
-|02|  06/10/25 a 26/10/25 | em progresso | [MVP](sp2.md)|
+|02|  06/10/25 a 26/10/25 | realizado | [MVP](sp2.md)|
 |03| 03/11/25 a 23/11/25 | em progresso | [MVP](sp3.md)|
 |Relatório Final| 23/11/25 | em progresso |[Ver Relatório](https://github.com/lerbalist/GESTEC/blob/main/Sprint%202/documento/SPRINT%202%20-%20Relatorio.pdx) |
 |Feira de Soluções| 04/12/25 |em progresso | 
