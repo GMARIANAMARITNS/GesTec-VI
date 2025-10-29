@@ -55,16 +55,23 @@ Necessidade: Obter informações organizadas e confiáveis para tomar decisões 
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 01     | [Funcionalidade X, Y]                        | Concluído|
-| 02     | [Funcionalidade Z]                           | Em andamento |
+| 01     |     Importação, limpeza e tratamento dos dados de exportação (Python e Pandas no Google Colab). Criação das primeiras tabelas com informações de países, estados, mercadorias e valores FOB.                 | Concluido|
+| 02     |    Desenvolvimento dos dashboards interativos no Power BI com indicadores FOB, peso (KG), principais produtos, estados e países exportadores. Criação dos KPIs de fluxo de cargas e análise temporal das exportações.                     | Concluido |
 
 ---
 
 ## 📊 Critérios de Aceitação
-- O MVP deve permitir que o usuário [ação principal]  
-- O sistema deve registrar [evento importante]  
-- Métricas coletadas: [exemplo: tempo de resposta, taxa de uso]  
+O MVP deve permitir que o usuário:
 
+-Identifique oportunidades estratégicas no mercado internacional;
+
+-Compreenda a distribuição geográfica das exportações brasileiras;
+
+-Entenda dependências e oportunidades internacionais;
+
+-Analise a relevância comercial por estado, país e tipo de mercadoria;
+
+-Visualize picos e tendências mensais no fluxo de exportações.
 ---
 
 ## 📈 Métricas de Validação
