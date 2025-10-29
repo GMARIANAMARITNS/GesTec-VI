@@ -7,31 +7,31 @@ Nesta sprint, o foco foi realizar a importação, leitura e tratamento avançado
 ---
 
 ## 📝 Descrição da Solução
-Etapa 1 – Google Colab (Python + Pandas)
+## Etapa 1 – Google Colab (Python + Pandas)
 
-Realizada a leitura de todos os arquivos de exportação dos anos de 2020 a 2025, além das tabelas auxiliares de País, URF, NCM e Via.
+- Realizada a leitura de todos os arquivos de exportação dos anos de 2020 a 2025, além das tabelas auxiliares de País, URF, NCM e Via.
 
-Padronização dos dados utilizando sep=';', encoding='UTF-8' e latin1 quando necessário.
+- Padronização dos dados utilizando sep=';', encoding='UTF-8' e latin1 quando necessário.
 
-Inspeção dos DataFrames com .info() para verificar a estrutura e integridade das informações (11 colunas principais e mais de 1,6 milhão de registros).
+- Inspeção dos DataFrames com .info() para verificar a estrutura e integridade das informações (11 colunas principais e mais de 1,6 milhão de registros).
 
-Estrutura das colunas analisadas: ano, mês, NCM, país, unidade, valor FOB e peso líquido.
+- Estrutura das colunas analisadas: ano, mês, NCM, país, unidade, valor FOB e peso líquido.
 
-Esses dados tratados foram exportados para o Power BI, servindo de base para os dashboards analíticos.
+- Esses dados tratados foram exportados para o Power BI, servindo de base para os dashboards analíticos.
 
-Etapa 2 – Power BI (Visualização e Análise)
+## Etapa 2 – Power BI (Visualização e Análise)
 
-Criado dashboard interativo com diferentes visões sobre o comércio exterior brasileiro.
+- Criado dashboard interativo com diferentes visões sobre o comércio exterior brasileiro.
 
-Painel FOB/KG: energia elétrica, ouro, pedras preciosas e produtos químicos lideram em volume exportado; os principais destinos são Argentina, EUA e Hong Kong.
+- Painel FOB/KG: energia elétrica, ouro, pedras preciosas e produtos químicos lideram em volume exportado; os principais destinos são Argentina, EUA e Hong Kong.
 
-Identificação dos principais estados exportadores: Paraná e São Paulo se destacam em peso, e São Paulo, Rio de Janeiro e Minas Gerais em valor financeiro.
+- Identificação dos principais estados exportadores: Paraná e São Paulo se destacam em peso, e São Paulo, Rio de Janeiro e Minas Gerais em valor financeiro.
 
-Visualização do modal de transporte: predominância dos modais aéreo e marítimo, além da rede de transmissão.
+- Visualização do modal de transporte: predominância dos modais aéreo e marítimo, além da rede de transmissão.
 
-Painel KPI – Fluxo de Cargas: picos de exportação observados em maio e julho, com destaque para o transporte rodoviário.
+- Painel KPI – Fluxo de Cargas: picos de exportação observados em maio e julho, com destaque para o transporte rodoviário.
 
-As análises transformaram grandes volumes de dados em insights estratégicos para a tomada de decisão.
+- As análises transformaram grandes volumes de dados em insights estratégicos para a tomada de decisão.
 
 ---
 
@@ -63,25 +63,23 @@ Necessidade: Obter informações organizadas e confiáveis para tomar decisões 
 ## 📊 Critérios de Aceitação
 O MVP deve permitir que o usuário:
 
--Identifique oportunidades estratégicas no mercado internacional;
+- Identifique oportunidades estratégicas no mercado internacional;
 
--Compreenda a distribuição geográfica das exportações brasileiras;
+- Compreenda a distribuição geográfica das exportações brasileiras;
 
--Entenda dependências e oportunidades internacionais;
+- Entenda dependências e oportunidades internacionais;
 
--Analise a relevância comercial por estado, país e tipo de mercadoria;
+- Analise a relevância comercial por estado, país e tipo de mercadoria;
 
--Visualize picos e tendências mensais no fluxo de exportações.
+- Visualize picos e tendências mensais no fluxo de exportações.
 ---
 
-## 📈 Métricas de Validação
-- Número de usuários que testaram o MVP  
-- Feedback qualitativo (positivo/negativo)  
-- Indicadores de negócio (exemplo: % de adesão, redução de custo, etc.)  
 
----
 
 ## 🚀 Próximos Passos
-- Melhorias planejadas após feedback  
-- Ajustes de usabilidade  
-- Expansão de funcionalidades para próximo incremento  
+- Revisão do código no Google Colab e otimização de consultas.
+- Integração com base de dados SQL.
+- Criação de novos indicadores e KPIs no Power BI (por modal, período e tipo de produto).
+- Documentação e publicação final no GitHub.
+
+## video da apresentação :
