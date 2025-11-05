@@ -35,4 +35,4 @@ Construir um painel de análise das exportações brasileiras (2020-2025), utili
 ## 📂 Anexos / Evidências
 
 - Baixe a apresentação: [Apresentacao.-.Sprint.1.zip](https://github.com/user-attachments/files/22858930/Apresentacao.-.Sprint.1.zip)
-- Vídeo Sprint 1: (https://youtu.be/24NmJlMlDBI)
+- Vídeo Sprint 1: https://youtu.be/24NmJlMlDBI
