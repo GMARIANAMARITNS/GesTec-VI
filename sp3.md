@@ -14,7 +14,7 @@ Após a compilação e mapeamento dos dados sobre as exportações brasileiras (
 ---
 
 ## 👥 Personas / Usuários-Alvo
-- **Persona: Secretário de Comércio Exterior deseja dispor de indicadores gerenciais, que apoiem na tomada de decisões, com base nos dados de 2020-2025.
+- Persona: Secretário de Comércio Exterior deseja dispor de indicadores gerenciais, que apoiem na tomada de decisões, com base nos dados de 2020-2025.
   
 ---
 
