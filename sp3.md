@@ -21,7 +21,7 @@ Após a compilação e mapeamento dos dados sobre as exportações brasileiras (
 ## 🔑 User Stories (Backlog do MVP)
 | ID  | User Story                                                                 | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
-| US8 | Como Secretário de Comércio Exterior, quero dispor de indicadores gerenciais para apoiar a tomada de decisões baseada em dados sobre as exportações brasileiras.        | Média     |2 pontos   |
+| 1 | Como Secretário de Comércio Exterior, quero dispor de indicadores gerenciais para apoiar a tomada de decisões baseada em dados sobre as exportações brasileiras.        | Média     |2 pontos   |
 
 
 ---
