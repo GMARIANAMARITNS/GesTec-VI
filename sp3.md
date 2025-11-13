@@ -14,9 +14,8 @@ Após a compilação e mapeamento dos dados sobre as exportações brasileiras (
 ---
 
 ## 👥 Personas / Usuários-Alvo
-- **Persona 1:** breve descrição, necessidades e dores atendidas  
-- **Persona 2:** breve descrição, necessidades e dores atendidas  
-
+- **Persona: Secretário de Comércio Exterior deseja dispor de indicadores gerenciais, que apoiem na tomada de decisões, com base nos dados de 2020-2025.
+  
 ---
 
 ## 🔑 User Stories (Backlog do MVP)
