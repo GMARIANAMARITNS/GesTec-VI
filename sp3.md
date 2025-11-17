@@ -75,6 +75,6 @@ A sprint final teve como foco a conclusão das análises e o aprimoramento dos d
 ---
 
 ## 📂 Anexos / Evidências
-- Prints de tela  
-- Fluxos ou protótipos  
-- Vídeo (MVP)  
+- Vídeo (MVP)
+  [![Clique para assistir](https://img.youtube.com/vi/Pou352Iu8FU/maxresdefault.jpg)](https://youtu.be/Pou352Iu8FU)
+ 
