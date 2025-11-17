@@ -39,7 +39,7 @@ A sprint final teve como foco a conclusão das análises e o aprimoramento dos d
 ---
 
 ## 📊 Critérios de Aceitação
-- [x] Identificação de oportunidades internacionais  
+- [x] Identificação de oportunidades internacionais
   - Indicadores permitem comparar países, regiões e variações de demanda ao longo do período.
 
 - [x] Visualização da distribuição geográfica das exportações  
