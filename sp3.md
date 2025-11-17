@@ -39,12 +39,23 @@ A sprint final teve como foco a conclusão das análises e o aprimoramento dos d
 ---
 
 ## 📊 Critérios de Aceitação
-- Identificar oportunidades internacionais.
-- Visualizar a distribuição geográfica das exportações.
-- Analisar dependências comerciais entre países.
-- Consultar relevância por estado, país e tipo de mercadoria.
-- Observar tendências e picos mensais.
-- Aplicar filtros dinâmicos para análises específicas.
+- [x] Identificação de oportunidades internacionais  
+  - Indicadores permitem comparar países, regiões e variações de demanda ao longo do período.
+
+- [x] Visualização da distribuição geográfica das exportações  
+  - Mapas ou gráficos mostram o volume exportado por país e região.
+
+- [x] Análise das dependências comerciais entre países  
+  - Visualizações evidenciam concentrações de exportações e relações de dependência.
+
+- [x] Consulta da relevância por estado, país e tipo de mercadoria  
+  - Filtros e gráficos identificam os estados exportadores, principais destinos e mercadorias relevantes.
+
+- [x] Observação de tendências e picos mensais  
+  - Séries temporais exibem sazonalidade e períodos de maior fluxo exportador.
+
+- [x] Aplicação de filtros dinâmicos para análises específicas  
+  - Dashboards permitem filtros por ano, mês, estado, país, NCM e modal, atualizando informações automaticamente.
 
 ---
 
