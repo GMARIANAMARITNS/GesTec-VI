@@ -29,8 +29,9 @@ Após a compilação e mapeamento dos dados sobre as exportações brasileiras (
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 01     | [Funcionalidade X, Y]                        | Concluído|
-| 02     | [Funcionalidade Z]                           | Em andamento |
+| 01     |     Importação, limpeza e tratamento dos dados de exportação (Python e Pandas no Google Colab). Criação das primeiras tabelas com informações de países, estados, mercadorias e valores FOB.                 | Concluido|
+| 02     |    Desenvolvimento dos dashboards interativos no Power BI com indicadores FOB, peso (KG), principais produtos, estados e países exportadores. Criação dos KPIs de fluxo de cargas e análise temporal das exportações.                     | Concluido |
+| 03     |  Finalização do desenvolvimento dos dashboards, incluindo dados sobre a concentração de fluxo de dados, a produtividade da rota e a concentração de receita. Além da elaboração do relatório gerencial.  | Concluído | 
 
 ---
 
