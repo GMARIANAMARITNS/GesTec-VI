@@ -36,9 +36,12 @@ Após a compilação e mapeamento dos dados sobre as exportações brasileiras (
 ---
 
 ## 📊 Critérios de Aceitação
-- O MVP deve permitir que o usuário [ação principal]  
-- O sistema deve registrar [evento importante]  
-- Métricas coletadas: [exemplo: tempo de resposta, taxa de uso]  
+- Identificar oportunidades internacionais.
+- Visualizar a distribuição geográfica das exportações.
+- Analisar dependências comerciais entre países.
+- Consultar relevância por estado, país e tipo de mercadoria.
+- Observar tendências e picos mensais.
+- Aplicar filtros dinâmicos para análises específicas.
 
 ---
 
