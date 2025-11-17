@@ -6,10 +6,13 @@ Após a compilação e mapeamento dos dados sobre as exportações brasileiras (
 ---
 
 ## 📝 Descrição da Solução
-> Breve explicação do que será desenvolvido e entregue nesta etapa.  
-- Funcionalidades principais incluídas  
-- Limitações conhecidas  
-- Escopo reduzido (somente o essencial para validar a ideia)  
+A sprint final teve como foco a conclusão das análises e o aprimoramento dos dashboards no Power BI. As principais entregas foram:
+
+- Finalização dos dashboards analíticos, com inclusão de novas métricas e visões estratégicas.
+- Análise da concentração do fluxo de cargas, identificando rotas e destinos com maior volume exportado.
+- Avaliação da produtividade das rotas, considerando eficiência logística e desempenho por modal de transporte.
+- Mapeamento da concentração de receita, destacando países, mercadorias e rotas com maior participação no valor FOB.
+- Elaboração do relatório gerencial, consolidando indicadores, gráficos e interpretações obtidas durante todo o projeto.  
 
 ---
 
