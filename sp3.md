@@ -60,16 +60,17 @@ A sprint final teve como foco a conclusão das análises e o aprimoramento dos d
 ---
 
 ## 📈 Métricas de Validação
-- Número de usuários que testaram o MVP  
-- Feedback qualitativo (positivo/negativo)  
-- Indicadores de negócio (exemplo: % de adesão, redução de custo, etc.)  
+- [x] Feedback qualitativo  
+  - Os testadores destacaram:  
+    - Clareza das visualizações  
+    - Facilidade de navegação  
+    - Efetividade dos filtros dinâmicos  
+  - Sugestão de melhoria: inclusão de descrições adicionais para alguns indicadores.
 
----
-
-## 🚀 Próximos Passos
-- Melhorias planejadas após feedback  
-- Ajustes de usabilidade  
-- Expansão de funcionalidades para próximo incremento  
+- [x] Indicadores de negócio 
+  - Redução do tempo de análise em comparação aos dados brutos.  
+  - Identificação facilitada de picos mensais, países estratégicos e mercadorias de maior impacto.  
+  - Maior precisão e agilidade no processo de tomada de decisão dentro do escopo do projeto.
 
 ---
 
