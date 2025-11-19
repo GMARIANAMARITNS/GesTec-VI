@@ -82,4 +82,4 @@ O MVP deve permitir que o usuário:
 - Criação de novos indicadores e KPIs no Power BI (por modal, período e tipo de produto).
 - Documentação e publicação final no GitHub.
 
-## video da apresentação :
+## video da apresentação :https://youtu.be/nliFcIT0NiM
